@@ -6,7 +6,7 @@ function nocambies(e) {
     e.preventDefault()
     console.log('llegó acá')
     if (toggle === false) {
-      x.style.display = "block";
+      x.style.display = "flex";
     }
     toggle = true
 }
