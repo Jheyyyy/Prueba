@@ -1,0 +1,50 @@
+.contenedor{
+    display: flex;
+}
+
+.cuadro{
+    width: 100px;
+    height: 100px;
+    border: 3px solid;
+    margin: 10px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.cuadro p {
+    padding-top: 8px;
+}
+
+.bordeVerde{
+    width: 100px;
+    height: 30px;
+    background-color: green;
+    margin-top: -19px;
+    border-top: 3px solid;
+}
+.bordeAmarillo{
+    width: 100px;
+    height: 30px;
+    background-color: yellow;
+    margin-top: -86px;
+    border-bottom: 3px solid;
+}
+.bordeRojo{
+    width: 30px;
+    height: 100px;
+    background-color: red;
+    margin-top: -86px;
+    border-right: 3px solid;
+}
+.bordeAzul{
+    width: 30px;
+    height: 100px;
+    background-color: blue;
+    margin-top: -86px;
+    border-left: 3px solid;
+    margin-left: 67px;
+}
+
+.derecha{
+    margin-left: 390px;
+}
